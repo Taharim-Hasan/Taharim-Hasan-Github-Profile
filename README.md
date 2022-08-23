@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/Taharim-Hasan)
     
 <h1 align="center">Hi 👋, I'm Taharim Hasan Tanim</h1>
 <h3 align="center">বাংলাদেশের একজন পিচ্চি প্রোগ্রামার।</h3>
@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taharim-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="taharim-hasan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taharim-hasan" alt="taharim-hasan" /></a> </p>
+<p align="left"> <a href="[[https://github.com/Taharim-Hasan](https://github.com/Taharim-Hasan)](https://github.com/Taharim-Hasan)"><img src="https://github-profile-trophy.vercel.app/?username=taharim-hasan" alt="taharim-hasan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
